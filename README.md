@@ -31,7 +31,7 @@ This repo contains a comprehensive project that focuses on comparing the efficie
 
 ### Sample Output
 
-The `input.txt` file in the directory contains the generated sequence of requests. The outputs for different request numbers are saved in `output.csv` and include the total tracks traversed and delays experienced by the requests.
+The `input.txt` file in the directory contains the generated sequence of requests, with a new one being generated every time the program is compiled. The outputs for different request numbers are saved in `output.csv` and include the total tracks traversed and delays experienced by the requests.
 
 ## Analysis and Reports
 
