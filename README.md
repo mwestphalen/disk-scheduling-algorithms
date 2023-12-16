@@ -1,4 +1,4 @@
-# Disk Scheduling Algorithm Analysis
+# Analyzing Disk Scheduling Algorithms
 
 ## Project Overview
 
