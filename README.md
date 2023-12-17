@@ -40,10 +40,12 @@ Further analysis of the different algorithms, along with a detailed report, can 
 ## Collaboration Statement
 
 Resources used:
-- Overview of disk scheduling content: [Zybooks Chapter](https://learn.zybooks.com/zybook/ROLLINSCMS470SummetSpring2023/chapter/9/section/3)
 - SSTF and C-Scan algorithm understanding: [Coding Ninjas Library](https://www.codingninjas.com/codestudio/library)
 - Refreshing Merge Sort: [Programiz](https://www.programiz.com/dsa/merge-sort)
 - General C syntax questions: [OpenAI Chat](https://chat.openai.com)
+- Overview of disk scheduling content & project idea gathered from the **ZyBooks' Operating Systems** book written by Lubomir Bic, a professor of Computer Science at the University of California, Irvine.
+  - ZyBook ISBN: 979-8-203-07220-7
+
 
 ## Contributing
 
